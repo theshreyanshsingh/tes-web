@@ -1,11 +1,8 @@
 "use client";
-import Search from "../(main)/search/page";
+import Search from "../_main_/search/page";
 import Link from "next/link";
-import {useState } from "react";
-import {
-  IoSearch,
-  IoSettingsOutline,
-} from "react-icons/io5";
+import { useState } from "react";
+import { IoSearch, IoSettingsOutline } from "react-icons/io5";
 import { LuSearch } from "react-icons/lu";
 // import { useSelector } from "react-redux";
 // import { RootState, store } from "../redux/store";
