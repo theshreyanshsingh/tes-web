@@ -16,6 +16,8 @@ import { FaLinkedin } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
 
+export const runtime = "edge";
+
 export interface PrositeData {
   profilepic: string;
   fullname: string;
